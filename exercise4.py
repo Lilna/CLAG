@@ -1,0 +1,2 @@
+twitter = "@hearmecode"
+len(twitter)
